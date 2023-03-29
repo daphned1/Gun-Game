@@ -6,7 +6,7 @@ TextureImporter:
   serializedVersion: 12
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -51,7 +51,7 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
@@ -70,7 +70,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -115,7 +115,700 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: gun-game-box_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 3.125
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805b68a045a07b546951a95f30141d7a
+      internalID: -982006063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-game-box_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 3.125
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2858570fa5570a942ac64c7cb4d5b06a
+      internalID: -786228559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-game-box_2
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 3.125
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b87a09194a0494b9309400bb58cd99
+      internalID: 846783226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-game-box_3
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 3.125
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb2afad6fb958a439b65421d3002060
+      internalID: 1106679415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-game-box_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 3.125
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53380b9322b4b74ebdc5c2988f2d317
+      internalID: -588087692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-game-box_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 3.125
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9627e25af68784ea9486ce78fc815e
+      internalID: -1855209003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-game-box_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 3.125
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4baf0153d59201f4e81c6606d7d5e486
+      internalID: 1776159186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-game-box_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 3.125
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b913653b8034a4b9ebd975305e74d5
+      internalID: -1323036304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-game-box_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 3.125
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20a6eee61b6cca438f28f870f602655
+      internalID: 212905182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-game-box_9
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 3.125
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09091efd1c73da24d8e49222b4f30cee
+      internalID: -861346469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-game-box_10
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 3.125
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991dd5e36d0f05b48b1f3ea2f150bd39
+      internalID: -321156196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-game-box_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 3.125
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba46acb8a3213a41b3b3cf289d291ff
+      internalID: 1042989252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-game-box_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 3.125
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a5c525bc306d341805dfe250c0c0ef
+      internalID: -879568084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-game-box_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 3.125
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d2c639480208f489f2ed30eb35f0ba
+      internalID: 70962445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-game-box_14
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 3.125
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacf163907323754081b1a38f903eccf
+      internalID: -1974046285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-game-box_15
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 3.125
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe786a892a417754da8bd06ff737a30d
+      internalID: 1271145695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-game-box_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 3.125
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879b8e8a5225be1499fa39b249a474c2
+      internalID: 1574666900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-game-box_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 3.125
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b01bdee68580843923be426f30b38f
+      internalID: 1701519126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-game-box_18
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 3.125
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0859d7387649741b95e66cc06c0bd8
+      internalID: 298477382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-game-box_19
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 3.125
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d08bde780352d418c05ca0c21bd03d
+      internalID: -2071901449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-game-box_20
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 3.125
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b150fb0b1f07a949a9f4447d1054b36
+      internalID: -1325142370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-game-box_21
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 3.125
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f29c72f54029d542bd4611158d23a3e
+      internalID: 1566471446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-game-box_22
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 3.125
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a541692f09ccb2840b38a1461eef6b53
+      internalID: 369107523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-game-box_23
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 3.125
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252192e960d20c342af3b86af201b59c
+      internalID: -1396686807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-game-box_24
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 3.125
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54148bac11fa612468e112e5a262e031
+      internalID: -2090428300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-game-box_25
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 3.125
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0564507365aa8e64e9cb484a9ab23ae1
+      internalID: 675783545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-game-box_26
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 3.125
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89edc2c33c9023c4f8b918f1de01a796
+      internalID: 657548189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-game-box_27
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 3.125
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9283f57eca3f3c6449ed5c22d71d2217
+      internalID: 1040658112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-game-box_28
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 3.125
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776353c4b56927b418a6a7996d9b874d
+      internalID: 1381497739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-game-box_29
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 3.125
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f8264a80b7c394d929c686d83aa759
+      internalID: -1935415689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-game-box_30
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 3.125
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a082ec9f6c316e84cadaefb7607f96e3
+      internalID: -1045935618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-game-box_31
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 3.125
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699a4af7b27fabc469c3d22664702acb
+      internalID: -1533498051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-game-box_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 3.125
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6be644d2384834b86533f64393bcaf
+      internalID: 2022885454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -126,7 +819,40 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gun-game-box_15: 1271145695
+      gun-game-box_19: -2071901449
+      gun-game-box_22: 369107523
+      gun-game-box_4: -588087692
+      gun-game-box_21: 1566471446
+      gun-game-box_27: 1040658112
+      gun-game-box_11: 1042989252
+      gun-game-box_1: -786228559
+      gun-game-box_18: 298477382
+      gun-game-box_20: -1325142370
+      gun-game-box_25: 675783545
+      gun-game-box_2: 846783226
+      gun-game-box_30: -1045935618
+      gun-game-box_17: 1701519126
+      gun-game-box_31: -1533498051
+      gun-game-box_5: -1855209003
+      gun-game-box_3: 1106679415
+      gun-game-box_28: 1381497739
+      gun-game-box_13: 70962445
+      gun-game-box_14: -1974046285
+      gun-game-box_0: -982006063
+      gun-game-box_6: 1776159186
+      gun-game-box_8: 212905182
+      gun-game-box_32: 2022885454
+      gun-game-box_10: -321156196
+      gun-game-box_26: 657548189
+      gun-game-box_23: -1396686807
+      gun-game-box_9: -861346469
+      gun-game-box_7: -1323036304
+      gun-game-box_12: -879568084
+      gun-game-box_16: 1574666900
+      gun-game-box_29: -1935415689
+      gun-game-box_24: -2090428300
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
