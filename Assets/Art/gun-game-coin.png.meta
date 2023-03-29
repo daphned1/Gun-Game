@@ -6,7 +6,7 @@ TextureImporter:
   serializedVersion: 12
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -36,9 +36,9 @@ TextureImporter:
     filterMode: 0
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -70,7 +70,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -131,8 +131,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 05b22be479d3a7441ab3b87766f4b57f
-      internalID: -2036135724
+      spriteID: 8cd9589b694ad7d4da5bc75696fc58df
+      internalID: 223436390
       vertices: []
       indices: 
       edges: []
@@ -152,8 +152,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 14de8a7edb69c744096f1eb8d31e30e8
-      internalID: -65279833
+      spriteID: cd69442f5929b1d488dede84fe5cf7aa
+      internalID: -491187482
       vertices: []
       indices: 
       edges: []
@@ -173,8 +173,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9641f4804ec480f4385119c0133bdbed
-      internalID: 1171173377
+      spriteID: 9cabc49b2e36acf4688f57d0c7e4ad0e
+      internalID: -2116921483
       vertices: []
       indices: 
       edges: []
@@ -194,8 +194,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f6086892b05003846a63938e9b0b84d5
-      internalID: -2122848497
+      spriteID: ba1931771c3d5ca429f2311c81ce20b0
+      internalID: -760440404
       vertices: []
       indices: 
       edges: []
@@ -211,10 +211,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      gun-game-coin_3: -2122848497
-      gun-game-coin_0: -2036135724
-      gun-game-coin_2: 1171173377
-      gun-game-coin_1: -65279833
+      gun-game-coin_3: -760440404
+      gun-game-coin_0: 223436390
+      gun-game-coin_2: -2116921483
+      gun-game-coin_1: -491187482
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
