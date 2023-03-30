@@ -6,7 +6,7 @@ public class CoinMovement : MonoBehaviour
 {
     // Start is called before the first frame update
     Rigidbody2D rb;
-    private float speed = 1000f;
+    private float speed = 500f;
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
